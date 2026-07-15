@@ -37,6 +37,7 @@ Decided once so no project re-litigates it (the decision-fatigue tax is real):
 | Auth | [Better Auth](https://better-auth.com) | Clerk for simple à-la-carte apps |
 | Caching / rate limiting | Upstash Redis | |
 | AI | AI SDK v6 via Vercel AI Gateway, or OpenRouter when I want to run across multiple models | |
+| Telemetry | [PostHog](https://posthog.com) (product analytics, session replay, feature flags) | |
 | Runtime / tooling | Bun, with npm / pnpm depending on the project | |
 
 The default is the integrated stack my most mature web project actually shipped on. Exceptions exist, but they are named exceptions, not per-project debates.

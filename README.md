@@ -47,10 +47,11 @@ The default is the integrated stack my most mature web project actually shipped 
 
 ## Skills I keep installed
 
-Included in [skills/](skills/); install by copying a folder into `~/.claude/skills/`.
+The ones marked `skills/` are vendored in this repo (copy a folder into `~/.claude/skills/`); the rest link out to their source.
 
 | Skill | What it does | By |
 | --- | --- | --- |
+| [superpowers](https://github.com/obra/superpowers) | The process backbone: `brainstorming`, `writing-plans`, `subagent-driven-development`, and `verification-before-completion` are the skills each workflow stage above runs on | [Jesse Vincent](https://github.com/obra) |
 | [tidy-commit](skills/tidy-commit) | Turns a messy working tree into clean, atomic commits that mirror what actually changed | me |
-| [ui-ux-pro-max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | UI/UX design intelligence: styles, palettes, font pairings, UX guidelines across 10 stacks (linked, not vendored) | nextlevelbuilder |
+| [ui-ux-pro-max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | UI/UX design intelligence: styles, palettes, font pairings, UX guidelines across 10 stacks | nextlevelbuilder |
 | [web-design-guidelines](skills/web-design-guidelines) | Audits UI code against [Web Interface Guidelines](https://github.com/vercel-labs/web-interface-guidelines) | [Vercel](https://github.com/vercel-labs) |
